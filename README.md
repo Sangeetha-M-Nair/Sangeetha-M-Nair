@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sangeetha-M-Nair
 - 👀 I’m a Software developer with training in DevOps tools.
-- 🌱 I’m currently learning Mern.
+- 🌱 I’m currently working in Mern.
 - 💞️ I’m looking to collaborate on github.
 - 📫 You can reach me on my instagram page learn_code_info.
 
